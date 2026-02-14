@@ -1,0 +1,8 @@
+
+{
+  "name": "ValenTiny - Your Sweetest Valentine Companion",
+  "description": "An interactive, AI-powered Valentine's experience featuring a playful 'Will You Be My Valentine?' proposal, a personalized love note generator, and a cute image creator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
